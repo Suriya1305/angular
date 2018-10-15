@@ -206,7 +206,7 @@
         }
         ).subscribe(
             data => {
-                alert('แก้ไขรียบร้อย');
+                alert('แก้ไขเรียบร้อย');
                 console.log('Post Request is successful', data);
 
             },
